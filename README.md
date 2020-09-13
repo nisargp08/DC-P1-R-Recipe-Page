@@ -1,6 +1,6 @@
 <!-- Please update value in the {}  -->
 
-<h1 align="center">{Your project name}</h1>
+<h1 align="center">Devchallenges.io - Path 1 - Responsive - Challenge 4 -Recipe Page</h1>
 
 <div align="center">
    Solution for a challenge from  <a href="http://devchallenges.io" target="_blank">Devchallenges.io</a>.
@@ -36,7 +36,7 @@
 
 ## Overview
 
-![screenshot](./screenshot/png)
+![screenshot](./screenshot.png)
 
 
 ### Built With
