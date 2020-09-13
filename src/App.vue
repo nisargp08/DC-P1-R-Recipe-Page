@@ -14,7 +14,7 @@
                         <div>
                             <img class="w-12 h-4 md:w-6 lg:w-4" src="@/assets/images/6dots.svg" alt="">
                         </div>
-                        <div class="">
+                        <div class="lg:w-2/3">
                             <p class="font-montserrat italic font-medium text-xs leading-4 px-3 lg:text-sm">Look no further for a creamy and ultra smooth classic cheesecake recipe! Paired with a buttery graham cracker crust, no one can deny its simple decadence. For the best results, bake in a water bath.</p>
                         </div>
                     </div>
