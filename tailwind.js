@@ -21,6 +21,14 @@ module.exports = {
       },
       spacing : {
         '2px' : '2px',
+        '14' : '3.5rem',
+        '368px' : '368px',
+      },
+      lineHeight : {
+        '14' : '4rem'
+      },
+      boxShadow : {
+        'custom' : '0px 2px 2px rgba(0, 0, 0, 0.12)',
       }
     },
   },
